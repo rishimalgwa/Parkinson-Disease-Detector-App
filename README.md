@@ -1,16 +1,24 @@
-# pkd_app
+# Parkinson's Disease Detector App
 
-A new Flutter project.
+## Overview
+A mobile application that assists in early detection of Parkinson's Disease using machine learning and advanced diagnostic techniques.
 
-## Getting Started
+## Features
+- Early-stage Parkinson's Disease detection
+- Voice pattern analysis
+- Machine learning-based prediction
+- User-friendly mobile interface
+- Secure medical data handling
 
-This project is a starting point for a Flutter application.
+## Technology Stack
+- **Backend**: Python
+- **Machine Learning**: TensorFlow, scikit-learn
+- **Mobile App**: Flutter
+- **Model Deployment**: TensorFlow Lite
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future Roadmap
+- Enhanced ML model
+- Cross-platform compatibility
+- Real-time monitoring features
+- Integration with healthcare systems
